@@ -1,5 +1,5 @@
 # Base Role
-Common setup for all servers: users, ssh, updates, basic security.
+Common setup for all servers: users, ssh.
 
 ## Variables to set:
 - `admin_user`: Your username
