@@ -1,2 +1,3 @@
 # base-server-template
-Ready-to-use Ansible roles and scripts for base Debian/Ubuntu server deployment. Community-driven.
+Готовые к использованию роли и скрипты Ansible для развертывания базового сервера Debian/Ubuntu. 
+Разработано сообществом GuardianOps.
